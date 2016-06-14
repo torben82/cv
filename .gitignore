@@ -1,8 +1,6 @@
-TorbenGreenAnnex44CV.pdf
-_gitignore
-main.aux
-main.log
-main.log.txt
-main.out
-main.pdf
+*.aux
+*.log
+*.log.txt
+*.out
+*.pdf
 oldLinkedin.txt
